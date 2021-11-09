@@ -1,5 +1,4 @@
-# write your code here
-# write your code here
+# simple game of tictactoe :-)
 import sys
 usin = "         "
 print ('---------')
