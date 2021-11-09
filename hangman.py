@@ -1,4 +1,4 @@
-# Write your code here
+# fancy a game of hanngman?? :-p
 import random
 import sys
 
